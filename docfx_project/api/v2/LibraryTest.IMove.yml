@@ -1,0 +1,87 @@
+### YamlMime:ManagedReference
+items:
+- uid: LibraryTest.IMove
+  commentId: T:LibraryTest.IMove
+  id: IMove
+  parent: LibraryTest
+  children:
+  - LibraryTest.IMove.Move(System.Int32)
+  langs:
+  - csharp
+  - vb
+  name: IMove
+  nameWithType: IMove
+  fullName: LibraryTest.IMove
+  type: Interface
+  source:
+    id: IMove
+    path: D:\codetest\docfx_project\src\LibraryTest\IMove.cs
+    startLine: 8
+  assemblies:
+  - LibraryTest
+  namespace: LibraryTest
+  syntax:
+    content: public interface IMove
+    content.vb: Public Interface IMove
+- uid: LibraryTest.IMove.Move(System.Int32)
+  commentId: M:LibraryTest.IMove.Move(System.Int32)
+  id: Move(System.Int32)
+  parent: LibraryTest.IMove
+  langs:
+  - csharp
+  - vb
+  name: Move(int)
+  nameWithType: IMove.Move(int)
+  fullName: LibraryTest.IMove.Move(int)
+  type: Method
+  source:
+    id: Move
+    path: D:\codetest\docfx_project\src\LibraryTest\IMove.cs
+    startLine: 14
+  assemblies:
+  - LibraryTest
+  namespace: LibraryTest
+  summary: Move length
+  example: []
+  syntax:
+    content: void Move(int length)
+    parameters:
+    - id: length
+      type: System.Int32
+      description: length
+    content.vb: Sub Move(length As Integer)
+  overload: LibraryTest.IMove.Move*
+  nameWithType.vb: IMove.Move(Integer)
+  fullName.vb: LibraryTest.IMove.Move(Integer)
+  name.vb: Move(Integer)
+references:
+- uid: LibraryTest
+  commentId: N:LibraryTest
+  href: LibraryTest.html
+  name: LibraryTest
+  nameWithType: LibraryTest
+  fullName: LibraryTest
+- uid: LibraryTest.IMove.Move*
+  commentId: Overload:LibraryTest.IMove.Move
+  href: LibraryTest.IMove.html#LibraryTest_IMove_Move_System_Int32_
+  name: Move
+  nameWithType: IMove.Move
+  fullName: LibraryTest.IMove.Move
+- uid: System.Int32
+  commentId: T:System.Int32
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.int32
+  name: int
+  nameWithType: int
+  fullName: int
+  nameWithType.vb: Integer
+  fullName.vb: Integer
+  name.vb: Integer
+- uid: System
+  commentId: N:System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System
+  nameWithType: System
+  fullName: System

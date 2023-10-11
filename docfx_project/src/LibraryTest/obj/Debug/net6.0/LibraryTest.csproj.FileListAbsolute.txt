@@ -1,0 +1,12 @@
+D:\code\localtest\LibraryTest\bin\Debug\net6.0\LibraryTest.deps.json
+D:\code\localtest\LibraryTest\bin\Debug\net6.0\LibraryTest.dll
+D:\code\localtest\LibraryTest\bin\Debug\net6.0\LibraryTest.pdb
+D:\code\localtest\LibraryTest\obj\Debug\net6.0\LibraryTest.csproj.AssemblyReference.cache
+D:\code\localtest\LibraryTest\obj\Debug\net6.0\LibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\localtest\LibraryTest\obj\Debug\net6.0\LibraryTest.AssemblyInfoInputs.cache
+D:\code\localtest\LibraryTest\obj\Debug\net6.0\LibraryTest.AssemblyInfo.cs
+D:\code\localtest\LibraryTest\obj\Debug\net6.0\LibraryTest.csproj.CoreCompileInputs.cache
+D:\code\localtest\LibraryTest\obj\Debug\net6.0\LibraryTest.dll
+D:\code\localtest\LibraryTest\obj\Debug\net6.0\refint\LibraryTest.dll
+D:\code\localtest\LibraryTest\obj\Debug\net6.0\LibraryTest.pdb
+D:\code\localtest\LibraryTest\obj\Debug\net6.0\ref\LibraryTest.dll

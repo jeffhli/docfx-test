@@ -1,0 +1,12 @@
+### YamlMime:TableOfContent
+items:
+- uid: LibraryTest
+  name: LibraryTest
+  items:
+  - uid: LibraryTest.Class1
+    name: Class1
+  - uid: LibraryTest.IMove
+    name: IMove
+  - uid: LibraryTest.People
+    name: People
+memberLayout: SamePage

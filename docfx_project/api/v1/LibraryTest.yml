@@ -1,0 +1,45 @@
+### YamlMime:ManagedReference
+items:
+- uid: LibraryTest
+  commentId: N:LibraryTest
+  id: LibraryTest
+  children:
+  - LibraryTest.Class1
+  - LibraryTest.IMove
+  - LibraryTest.People
+  langs:
+  - csharp
+  - vb
+  name: LibraryTest
+  nameWithType: LibraryTest
+  fullName: LibraryTest
+  type: Namespace
+  assemblies:
+  - LibraryTest
+references:
+- uid: LibraryTest.Class1
+  commentId: T:LibraryTest.Class1
+  href: LibraryTest.Class1.html
+  name: Class1
+  nameWithType: Class1
+  fullName: LibraryTest.Class1
+- uid: LibraryTest.IMove
+  commentId: T:LibraryTest.IMove
+  parent: LibraryTest
+  href: LibraryTest.IMove.html
+  name: IMove
+  nameWithType: IMove
+  fullName: LibraryTest.IMove
+- uid: LibraryTest.People
+  commentId: T:LibraryTest.People
+  parent: LibraryTest
+  href: LibraryTest.People.html
+  name: People
+  nameWithType: People
+  fullName: LibraryTest.People
+- uid: LibraryTest
+  commentId: N:LibraryTest
+  href: LibraryTest.html
+  name: LibraryTest
+  nameWithType: LibraryTest
+  fullName: LibraryTest
